@@ -61,7 +61,8 @@
     "react-icons": "latest",
     "firebase": "latest",
     "node-fetch": "^2.6.1",
-    "whatwg-url": "^8.7.0"
+    "whatwg-url": "^8.7.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/node": "^22",
