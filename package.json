@@ -60,7 +60,8 @@
     "zod": "^3.24.1",
     "react-icons": "latest",
     "firebase": "latest",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "whatwg-url": "^8.7.0"
   },
   "devDependencies": {
     "@types/node": "^22",
