@@ -63,7 +63,8 @@
     "node-fetch": "^2.6.1",
     "whatwg-url": "^8.7.0",
     "lodash": "^4.17.21",
-    "tr46": "^3.0.0"
+    "tr46": "^3.0.0",
+    "webidl-conversions": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "^22",
